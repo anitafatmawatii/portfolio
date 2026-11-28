@@ -1,64 +1,53 @@
 
-# Hi, I'm Anita Fatmawati 👋
+# Anita Fatmawati | Personal Portfolio Website
 
-### D3 Information Management Graduate | IT Enthusiast
+Welcome to my personal portfolio website repository!
 
-Welcome to my GitHub repository!
+This repository contains the source code for my personal portfolio website, showcasing my educational background, professional experience, organizational activities, technical skills, and projects.
 
-I am a Diploma III graduate in Informatics Management from Universitas Putra Indonesia "YPTK" Padang, with a GPA of 3.52/4.00.
+## About This Website
 
-I have an interest in Information Technology, particularly IT Support, IT Operations, Web Development, Mobile Application Development, and Database Management.
+This portfolio was created to introduce myself as a Diploma III (D3) Informatics Management graduate from Universitas Putra Indonesia "YPTK" Padang with a GPA of 3.52/4.00.
 
----
+It highlights my interests in Information Technology, IT Support, IT Operations, Web Development, Mobile Application Development, and Database Management.
 
-## 🎓 Education
+## Website Sections
 
-**Universitas Putra Indonesia "YPTK" Padang**
+- Home – Personal introduction
+- About Me – Profile and background
+- Education – Academic background
+- Work Experience – Internship and professional experience
+- Organization – Leadership and organizational activities
+- Skills – Technical and soft skills
+- Projects – Academic and personal projects
+- Training & Certification – Courses and certificates
+- Contact – Contact information and social media
 
-- Degree: Diploma III (D3)
-- Major: Informatics Management
-- GPA: 3.52/4.00
-- Graduation: 2026
+## Technologies Used
 
----
+- HTML5
+- CSS3
+- GitHub
+- GitHub Pages
 
-## 💻 Technical Skills
+## Featured Projects
 
-- **IT Support:** Computer Troubleshooting, Software Installation, Basic Networking (LAN/Wi-Fi)
-- **Programming:** PHP, HTML, CSS
-- **Database:** MySQL
-- **Mobile Development:** Flutter, Dart, SQLite
-- **Data & Administration:** Data Entry, Data Management, Data Processing, Reporting, Document Management
-- **Office Applications:** Microsoft Word, Excel, PowerPoint
+1. Vehicle Tax Information System – Web-based information system using PHP, HTML, CSS, and MySQL.
+2. Travel Booking Application – Mobile application developed using Flutter, Dart, and SQLite.
 
----
+## Website
 
-## 🚀 Featured Projects
+Visit my portfolio:
 
-### 1. Vehicle Tax Information System
-A web-based vehicle tax information system developed as my final project using PHP, HTML, CSS, and MySQL.
+https://anitafatmawatii.github.io/
 
-### 2. Travel Booking Application
-A mobile travel booking application developed using Flutter and Dart, with SQLite as a local database.
+## Contact
 
----
-
-## 📚 Training & Certification
-
-- HCIA-openGauss V1.0 – Huawei ICT Academy
-- HCIP-openGauss V1.0 – Huawei ICT Academy
-- HCIE-openGauss V1.0 – Huawei ICT Academy
-- TOEFL Prediction Test – Score: 440
+- GitHub: https://github.com/anitafatmawatii
+- LinkedIn: https://www.linkedin.com/in/anita-fatmawati-307b12450/
+- Instagram: https://www.instagram.com/anitafatmawatii/
+- WhatsApp: https://wa.me/6283815264535
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: [anitafatmawatii](https://github.com/anitafatmawatii)
-- LinkedIn: [Anita Fatmawati](https://www.linkedin.com/in/anita-fatmawati-307b12450/)
-- Instagram: [@anitafatmawatii](https://www.instagram.com/anitafatmawatii/)
-- WhatsApp: [Contact Me](https://wa.me/6283815264535)
-
----
-
-⭐ Thank you for visiting my GitHub profile!
+© 2026 Anita Fatmawati. All Rights Reserved.
